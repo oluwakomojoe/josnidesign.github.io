@@ -1,0 +1,82 @@
+.body
+{
+    background-color: darkblue;
+    background-image: url("joe.jpg"); 
+    background-repeat: no-repeat;
+    background-position: top right;
+    image-resolution: 300px;
+    background-attachment: scroll;
+    background-size: 500px; 
+
+}
+
+.tops
+{
+    font-family: montserrat;
+    font-weight: bold;
+    color: white;
+
+}
+
+.h
+{
+    font-family: montserrat;
+    color: white;
+
+}
+
+
+
+.name
+{
+    font-family: montserrat; 
+    font-weight: bolder;
+    font-style: normal;
+    color: white;
+    text-align: left;
+    font-size: 50px;
+    text-align: initial;
+    
+}
+
+p
+{
+    font-family: montserrat;
+    color: white;
+   
+}
+
+.button
+{
+    color: brown;
+    block-size: 300px;
+    tab-size: 200px;
+    size: 200px;
+}
+
+.skil
+{
+    font-family: montserrat;
+    color: white;
+}
+
+.form
+{
+    font-family: montserrat;
+    font-weight: bold;
+    color: darkblue;
+}
+
+.sm
+{
+    font-family: montserrat;
+    font-weight: bold;
+    color: darkblue;
+    background-color: white;
+}
+
+.ci
+{
+    color: white;
+    font-family: montserrat;
+}
